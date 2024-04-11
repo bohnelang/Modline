@@ -13,7 +13,7 @@
 * <modline> 640 480 75 
 * (640x480 with a vert. frequence of 75 hz)
 *
-* Distributed by GNU Public Licence (GPL) 
+* Distributed by CC0
 */
 
 #include<stdio.h>
