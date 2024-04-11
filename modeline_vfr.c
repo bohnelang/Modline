@@ -2,7 +2,7 @@
 *
 * Modeline Tool
 *
-* Andreas Bohne / 1998 / http://www.dkfz-heidelberg.de/spec/
+* Andreas Bohne / 1998 
 *
 * Use on your own risk.
 *
