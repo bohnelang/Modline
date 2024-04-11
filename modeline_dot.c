@@ -13,7 +13,7 @@
 * <modline> 640 480 35 
 * (640x480 with a dotclock of 35 mhz)
 *
-* Distributed by GNU Public Licence (GPL) 
+* Distributed by CC0
 */
 
 #include<stdio.h>
